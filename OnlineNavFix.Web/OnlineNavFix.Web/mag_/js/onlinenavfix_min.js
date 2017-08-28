@@ -1,0 +1,1 @@
+﻿function fixNav(i){try{setTimeout(function(){top.$("#TabArrowDivider").unbind().click(function(){top.$(".navTabButton[name=TabHome]").click()}),(void 0===i||i>0)&&fixNav(void 0!==i?i-1:100)},50)}catch(i){}return!1}
