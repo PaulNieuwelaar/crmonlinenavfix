@@ -16,3 +16,6 @@ So what I've done is created a solution which runs a script on load of any scree
 ![](https://user-images.githubusercontent.com/14048382/29758197-ada16062-8c05-11e7-98d3-ed9f9c87cbbd.png)
 
 The result? less frustration, and less clicks (because you don't have to waste time clicking the actual button). Note that this is highly unsupported, and should only be used if like me, you're frustrated with clicking the wrong button all the time and cannot wait until it gets fixed properly. So, I'd recommend using the managed solution in case it ever breaks, or gets fixed properly, it can easily be uninstalled. Also important to note that if you navigate somewhere and then quickly click the button again before the page has fully loaded, there's a chance you'll see the switch apps screen before the script has a chance to overwrite it again. But you can just click it again once it's loaded and she'll be right.
+
+Created by [Paul Nieuwelaar](http://paulnieuwelaar.wordpress.com) - [@paulnz1](https://twitter.com/paulnz1)  
+Sponsored by [Magnetism Solutions - Dynamics CRM Specialists](http://www.magnetismsolutions.com)
