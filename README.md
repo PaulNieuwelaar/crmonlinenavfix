@@ -7,7 +7,7 @@ So you're trying to navigate somewhere in Dynamics 365 Online, and you click the
 
 I'm sure everyone has done this at least once, or like me, you've done it enough times that you felt the need to create a solution to fix it.
 
-Basically what we want to see when clicking this button, is what we're expecting to see, and what we're used to seeing, which is the top level CRM navigation menu. Although since this is now visible when clicking into the 'Sales' menu for example, we'd essenially just want to see this menu by default.
+Basically what we want to see when clicking this button, is what we're expecting to see, and what we're used to seeing, which is the top level CRM navigation menu. Although since this is now visible when clicking into the 'Sales' menu for example, we'd essentially just want to see this menu by default.
 
 ![](https://user-images.githubusercontent.com/14048382/29758196-ad7ee9b0-8c05-11e7-85df-c1431ccc158b.png)
 
